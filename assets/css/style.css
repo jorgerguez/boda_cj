@@ -141,9 +141,10 @@ p {
   -o-transition: all 0.4s ease-out 0s;
   transition: all 0.4s ease-out 0s;
   background-color: #8a9b5b;
-  -webkit-box-shadow: 0px 15px 40px 0px rgba(213, 154, 87, 0.34);
+  -webkit-box-shadow: 0px 15px 40px 0px rgb(234 234 202);
   -moz-box-shadow: 0px 15px 40px 0px rgba(213, 154, 87, 0.34);
-  box-shadow: 0px 15px 40px 0px rgba(213, 154, 87, 0.34); }
+  box-shadow: 0px 15px 40px 0px rgb(234 234 202);
+  }
   .main-btn:hover {
     background-color: #fff;
     color: #8a9b5b;
