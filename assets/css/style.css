@@ -37,7 +37,8 @@ body {
   box-sizing: border-box; }
 
 img {
-  max-width: 100%; }
+  max-width: 100%;
+  }
 
 a:focus,
 input:focus,
@@ -162,7 +163,8 @@ p {
   color: #8a9b5b; }
   @media (max-width: 767px) {
     .section_title .title {
-      font-size: 34px; } }
+      font-size: 27px;
+      } }
 .section_title img {
   margin-top: 10px; }
 .section_title p {
@@ -171,12 +173,14 @@ p {
   color: #38424D; }
   @media (max-width: 767px) {
     .section_title p {
-      font-size: 24px; } }
+      font-size: 18pt;
+      } }
 .section_title .text {
   font-size: 16px;
   line-height: 26px;
   color: #747E88;
-  margin-top: 30px; }
+  margin-top: 30px;
+  }
 
 /*===== All Preloader Style =====*/
 .preloader {
@@ -1513,5 +1517,9 @@ p.form-message.success, p.form-message.error {
   .back-to-top:hover {
     color: #fff;
     background-color: #8a9b5b; }
+
+.wedding-parents p{
+  font-size: 11pt;
+}
 
 /*# sourceMappingURL=style.css.map */
